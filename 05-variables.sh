@@ -13,6 +13,10 @@ read -s PASSWORD
 
 echo "Password entered is: $PASSWORD"
 
-read USERNAME1
+echo "*******************"
 
 echo "Please enter your name"
+
+read USERNAME1
+
+echo "Your name is: $USERNAME1"
